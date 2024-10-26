@@ -1,0 +1,9 @@
+{
+    "conn_id": "postgres_conn_id",
+    "conn_type": "postgres",
+    "host": "localhost",
+    "schema": "Captone_Project",
+    "login": "Rasheey97",
+    "password": "1234",
+    "port": 5432
+}
